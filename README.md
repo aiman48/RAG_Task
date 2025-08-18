@@ -21,7 +21,7 @@ This project lets you upload PDF documents, split them into smaller chunks, crea
 ### 1. Clone Repo
 
 git clone https://github.com/aiman48/RAG_Task
-cd RAG_Task
+
 
 
 
@@ -61,10 +61,7 @@ python -m streamlit run rag_pipeline.py
 
 ---
 
-##  Next Steps
 
-* Add **retrieval + RAG pipeline** to answer questions
-* Build a simple **frontend** (Streamlit or React) for interaction
 
----
+
 
