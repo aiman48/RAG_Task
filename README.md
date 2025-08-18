@@ -33,7 +33,8 @@ Create a `.env` file with your API keys:
 
 ```ini
 PINECONE_API_KEY=your_pinecone_api_key
-NEO4J_URI=neo4j+s://<your-neo4j-uri>
+NEO4J_URI_PRIMARY=neo4j+s://<your-neo4j-uri>
+NEO4J_URI_FALLBACK=neo4j+ssc://<your-neo4j-uri>
 NEO4J_USER=neo4j
 NEO4J_PASSWORD=your_password
 ```
