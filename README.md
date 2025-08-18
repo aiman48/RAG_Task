@@ -18,6 +18,10 @@ This project lets you upload PDF documents, split them into smaller chunks, crea
 * Returns total number of chunks stored
 
 ---
+### 1. Clone Repo
+
+git clone https://github.com/aiman48/RAG_Task
+cd RAG_Task
 
 
 
@@ -42,7 +46,7 @@ NEO4J_PASSWORD=your_password
 ### 4. Run App
 
 ```bash
-python main.py
+python -m streamlit run rag_pipeline.py
 ```
 
 ---
