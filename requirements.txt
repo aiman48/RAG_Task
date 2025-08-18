@@ -1,7 +1,7 @@
-sentence-transformers
-langchain-text-splitters
-pinecone-client
-neo4j
-groq
+streamlit
 python-dotenv
 pypdf
+langchain-text-splitters
+sentence-transformers
+pinecone
+neo4j
